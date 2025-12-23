@@ -67,7 +67,7 @@ data:
   timeframe: "5min"
   
   # Number of candles to fetch
-  ohlc_size: 120
+  ohlc_size: 200
   
   # Data quality checks
   min_data_points: 100
